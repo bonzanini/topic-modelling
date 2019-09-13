@@ -17,7 +17,7 @@ This repository contains code examples for the workshop `What are they talking a
 
 Clone the repository:
 
-    git clone
+    git clone https://github.com/bonzanini/topic-modelling
     cd topic-modelling
 
 Anaconda environment set-up:
