@@ -29,3 +29,9 @@ Run Jupyter:
 
     jupyter notebook
 
+## License
+
+Code under MIT license.
+
+Documentation and slides under CC-BY license.
+
